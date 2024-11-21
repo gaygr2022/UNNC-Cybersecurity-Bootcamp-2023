@@ -1,15 +1,1 @@
-Background:
-In a Network Far, Far Away!
-You are a Network Jedi working for the Resistance.
 
-The Sith Empire recently carried out a DoS attack, taking out the Resistance's core network infrastructure, including its DNS servers.
-
-This attack destroyed the Resistance's ability to communicate via email and retrieve other crucial information about one another's operations. The Empire has taken advantage of this compromised availability by ambushing numerous Resistance outposts, all vulnerable because the Resistance can no longer call for help.
-
-Your task is a crucial one: restore the Resistance's core DNS infrastructure and verify that traffic is routing as expected.
-
-Good luck, and may the Force be with you!
-
-Files Required
-Dark Side PCAPLinks to an external site.
-Galaxy Network MapLinks to an external site.
