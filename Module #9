@@ -56,7 +56,7 @@ Submit your results and findings in a document.
 Your mission:
 
 - Determine and document the mail servers for starwars.com using NSLOOKUP.
-
+<img src=""https://media.geeksforgeeks.org/wp-content/uploads/20240607140639/Screenshot-(103)-compressed.jpg="">
 `nslookup -type=mx starwars.com`
 
 ```
