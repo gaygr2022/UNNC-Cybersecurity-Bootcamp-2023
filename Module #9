@@ -118,11 +118,11 @@ theforce.net    text = "google-site-verification=XTU_We07Cux-6WCSOItl0c_WS29hzo9
 
   - Explain why the Force's emails are going to spam.
 
-  > The server ip address currently listed in the SPF record is incorrect
+  > The Force’s emails are going to spam because the server IP address is correct. 
 
   - Document what a corrected DNS record should be.
 
-  > The corrected DNS should have an ip address of `45.23.176.21`
+  > The corrected DNS record should have an IP Address of 45.23.176.21 
   
 ### Mission 3
 
@@ -146,12 +146,12 @@ www.theforce.net        canonical name = theforce.net.
   
   - Explain why the sub page of `resistance.theforce.net` isn't redirecting to `theforce.net`.
 
-  > As noted above the canonical name for www.theforce.net is currently listed as theforce.net which is incorrect and should instead be listed as resistance.theforce.net
+  > AThe subpage resistance.theforce.net is not redirecting to theforce.net because www.theforce.net is currently listed as theforce.net which is incorrect. 
   
   - Document what a corrected DNS record should be.
   
-  > The corrected DNS record should be resistance.theforce.net instead of theforce.net
-  
+  > The corrected DNS record should be resistance.theforce.net 
+
 ### Mission 4
 
 **Issue**: During the attack, it was determined that the Empire also took down the primary DNS server of `princessleia.site`. 
@@ -186,7 +186,8 @@ ns26.domaincontrol.com  has AAAA address 2603:5:2261::d
 
   - Document how you would fix the DNS record to prevent this issue from happening again.
     
-    > The website `ns2.galaxybackup.com` for the backup DNS server should be added to nameserver, which it shows that its not currently listed
+    > To prevent this in the future, add the website ns2.galaxybackup.com to the nameserver  
+
   
 ### Mission 5
 
@@ -204,7 +205,7 @@ Your Mission:
 
 - Document this shortest path so it can be used by the Resistance to develop a static route to improve the traffic.
 
-> D-C-E-F--J-I-L-Q-T-V-Jedha
+> The shortest path is D - C - E - F - J - I - L - Q - T -V - Jedha 
   
 ### Mission 6
 
